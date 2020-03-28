@@ -1,0 +1,9 @@
+Instalar o Expo
+
+Rocketseat expo-common-issua
+
+https://expo.io/learn
+
+npm i -g expo-cli
+
+expo init mobile
