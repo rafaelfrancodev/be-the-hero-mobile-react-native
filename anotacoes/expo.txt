@@ -21,3 +21,5 @@ npm install @react-navigation/stack
 E-mail composer
 https://docs.expo.io/versions/v36.0.0/sdk/mail-composer/
 
+01:19:28 
+
